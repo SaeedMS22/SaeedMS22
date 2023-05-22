@@ -25,7 +25,7 @@
 
 
 ## Statistics
-| <a href="https://github.com/SaeedMS22/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SaeedMS22&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="SaeedMS22's github stats" /></a> | <a href="https://github.com/SaeedMS22/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedMS22&layout=compact&theme=buefy&hide_border=true" /></a> |
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaeedMS22)](https://github.com/anuraghazra/github-readme-stats)
 | ------------- | ------------- |
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaeedMS22)](https://git.io/streak-stats)
