@@ -8,7 +8,7 @@
 ## About me
 - 🌱 I’m currently working as Junior Software Engineer on DOTNET Stack.
 - 💬 Ask me about [here](https://github.com/SaeedMS22/SaeedMS22/issues)
-- 📫 You can connect with me on [Twitter](https://www.twitter.com/Hey_Novice) and [LinkedIn](https://www.linkedin.com/in/mohdsaeed).
+- 📫 You can connect with me on [Twitter] and [LinkedIn](https://www.linkedin.com/in/mohdsaeed).
 <br>
 
 ## Tools and Technologies
