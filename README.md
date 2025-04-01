@@ -21,11 +21,12 @@
 ![MySQL](https://img.shields.io/static/v1?logo=MySQL&label=Database&message=MySQL&color=blue&logoColor=white)
 ![MongoDB](https://img.shields.io/static/v1?logo=MongoDB&label=Database&message=MongoDB&color=blue&logoColor=white)
 ![Git](https://img.shields.io/static/v1?logo=Git&label=Tools&message=Git&color=blue&logoColor=white)
+![.NET](https://img.shields.io/static/v1?logo=DotNet&label=Tools&message=DotNet&color=blue&logoColor=white)
 
 
 
 ## Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaeedMS22)](https://github.com/anuraghazra/github-readme-stats)
+[![SaeedMS22 GitHub stats](https://github-readme-stats.vercel.app/api?username=SaeedMS22)](https://github.com/anuraghazra/github-readme-stats)
 | ------------- | ------------- |
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaeedMS22)](https://git.io/streak-stats)
